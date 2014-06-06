@@ -1,0 +1,103 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=CA, L=SanFrancisco, O=WealthFront, OU=Engineering, CN=ip-172-31-44-90.us-west-2.compute.internal/name=ip-172-31-44-90/emailAddress=gogasca@wealthfront.com
+        Validity
+            Not Before: Jun  6 08:10:04 2014 GMT
+            Not After : Jun  3 08:10:04 2024 GMT
+        Subject: C=US, ST=CA, L=SanFrancisco, O=WealthFront, OU=Engineering, CN=ip-172-31-44-90.us-west-2.compute.internal/name=ip-172-31-44-90/emailAddress=gogasca@wealthfront.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ba:71:9a:34:8b:fe:f2:5d:78:2a:db:62:3c:6c:
+                    5e:27:49:c2:59:7d:27:0d:f9:30:16:0a:3c:d4:0c:
+                    f2:28:5a:d2:c0:33:f4:dd:b1:20:95:89:21:6b:97:
+                    d1:cd:76:ac:7b:73:c1:0d:9f:52:dd:f0:e1:c2:fe:
+                    18:c7:57:ca:2e:67:91:99:b2:af:81:d9:8d:da:24:
+                    ce:f2:ba:93:48:38:d9:15:f2:c6:f3:61:94:1d:44:
+                    3a:12:7b:85:ba:2b:91:38:3b:4a:bb:1b:2e:af:1f:
+                    fc:f3:67:35:fd:b5:64:db:8d:a9:76:12:1a:52:7d:
+                    8f:28:b1:af:7d:c8:4e:09:78:7e:b2:c5:8f:96:8e:
+                    70:69:6c:9a:89:51:49:34:a5:fd:21:57:18:fb:3b:
+                    c9:75:b0:e5:40:d1:92:6e:ad:d7:e1:09:65:d1:f6:
+                    7d:fb:cb:8f:b4:b6:5a:69:4f:0d:14:13:a6:65:0d:
+                    07:16:f4:da:5f:b3:d9:b4:f4:6f:10:9c:1e:f6:49:
+                    2b:04:9f:2f:d8:ba:ab:4d:d8:7d:fd:a9:12:c3:8c:
+                    74:33:d1:df:9d:32:e7:05:da:cc:2c:73:e8:67:43:
+                    4c:a2:84:52:74:02:64:69:0b:ff:83:c9:cc:43:f1:
+                    e9:9a:40:f4:2f:99:39:45:66:d4:f1:60:8d:de:82:
+                    93:03
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                30:54:55:DC:03:12:3F:A6:8F:DB:E7:BC:15:CF:31:8B:9F:DB:D7:8F
+            X509v3 Authority Key Identifier: 
+                keyid:9F:31:40:CF:00:41:9F:F8:7B:E0:60:09:EA:52:49:7F:45:02:E0:90
+                DirName:/C=US/ST=CA/L=SanFrancisco/O=WealthFront/OU=Engineering/CN=ip-172-31-44-90.us-west-2.compute.internal/name=ip-172-31-44-90/emailAddress=gogasca@wealthfront.com
+                serial:F2:3F:86:65:C8:04:CA:7A
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:vpnserver
+    Signature Algorithm: sha256WithRSAEncryption
+         07:15:30:fc:62:d1:84:17:1f:78:a2:ef:59:7c:e8:24:03:8a:
+         27:dd:c6:bf:73:b3:22:5a:f0:95:85:82:8f:eb:6b:67:c5:13:
+         6d:55:27:c6:c2:5f:52:c6:bd:31:d8:35:3d:48:e5:d7:b8:25:
+         ac:3c:5e:01:6d:f0:3c:f1:75:fe:c8:e0:f9:40:f1:34:30:65:
+         84:57:0f:a2:e8:20:e5:5a:3d:f0:fe:69:de:62:8b:7f:f3:46:
+         4a:b6:fd:8f:9a:48:4f:72:83:91:be:7f:51:64:6e:5d:87:34:
+         be:c3:0b:5c:1c:fc:49:b9:53:e4:1e:87:53:58:67:dd:b9:31:
+         d2:8b:e8:bc:b6:6c:3b:18:64:fa:c0:34:ab:fb:a3:54:d2:83:
+         7f:12:65:ab:00:fc:fd:e0:3f:f4:b6:81:48:66:fe:55:84:74:
+         2f:0c:5a:cd:aa:b5:ce:83:e6:25:53:2c:52:c0:87:68:ac:23:
+         4c:55:08:03:50:7b:68:29:65:57:de:1d:a5:10:3d:e5:92:56:
+         0b:18:9e:50:02:ce:bc:d1:d7:98:41:9c:b0:e2:b2:14:83:94:
+         3d:a9:85:cf:6c:74:18:4e:58:de:ee:9f:75:e8:8f:cb:57:c2:
+         05:0d:df:2a:1e:ea:b0:24:c9:b4:16:02:ba:d3:2e:dd:b8:4e:
+         91:f2:02:da
+-----BEGIN CERTIFICATE-----
+MIIF5DCCBMygAwIBAgIBATANBgkqhkiG9w0BAQsFADCB1DELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAkNBMRUwEwYDVQQHEwxTYW5GcmFuY2lzY28xFDASBgNVBAoTC1dl
+YWx0aEZyb250MRQwEgYDVQQLEwtFbmdpbmVlcmluZzEzMDEGA1UEAxMqaXAtMTcy
+LTMxLTQ0LTkwLnVzLXdlc3QtMi5jb21wdXRlLmludGVybmFsMRgwFgYDVQQpEw9p
+cC0xNzItMzEtNDQtOTAxJjAkBgkqhkiG9w0BCQEWF2dvZ2FzY2FAd2VhbHRoZnJv
+bnQuY29tMB4XDTE0MDYwNjA4MTAwNFoXDTI0MDYwMzA4MTAwNFowgdQxCzAJBgNV
+BAYTAlVTMQswCQYDVQQIEwJDQTEVMBMGA1UEBxMMU2FuRnJhbmNpc2NvMRQwEgYD
+VQQKEwtXZWFsdGhGcm9udDEUMBIGA1UECxMLRW5naW5lZXJpbmcxMzAxBgNVBAMT
+KmlwLTE3Mi0zMS00NC05MC51cy13ZXN0LTIuY29tcHV0ZS5pbnRlcm5hbDEYMBYG
+A1UEKRMPaXAtMTcyLTMxLTQ0LTkwMSYwJAYJKoZIhvcNAQkBFhdnb2dhc2NhQHdl
+YWx0aGZyb250LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALpx
+mjSL/vJdeCrbYjxsXidJwll9Jw35MBYKPNQM8iha0sAz9N2xIJWJIWuX0c12rHtz
+wQ2fUt3w4cL+GMdXyi5nkZmyr4HZjdokzvK6k0g42RXyxvNhlB1EOhJ7hborkTg7
+SrsbLq8f/PNnNf21ZNuNqXYSGlJ9jyixr33ITgl4frLFj5aOcGlsmolRSTSl/SFX
+GPs7yXWw5UDRkm6t1+EJZdH2ffvLj7S2WmlPDRQTpmUNBxb02l+z2bT0bxCcHvZJ
+KwSfL9i6q03Yff2pEsOMdDPR350y5wXazCxz6GdDTKKEUnQCZGkL/4PJzEPx6ZpA
+9C+ZOUVm1PFgjd6CkwMCAwEAAaOCAb0wggG5MAkGA1UdEwQCMAAwEQYJYIZIAYb4
+QgEBBAQDAgZAMDQGCWCGSAGG+EIBDQQnFiVFYXN5LVJTQSBHZW5lcmF0ZWQgU2Vy
+dmVyIENlcnRpZmljYXRlMB0GA1UdDgQWBBQwVFXcAxI/po/b57wVzzGLn9vXjzCC
+AQoGA1UdIwSCAQEwgf6AFJ8xQM8AQZ/4e+BgCepSSX9FAuCQoYHapIHXMIHUMQsw
+CQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFTATBgNVBAcTDFNhbkZyYW5jaXNjbzEU
+MBIGA1UEChMLV2VhbHRoRnJvbnQxFDASBgNVBAsTC0VuZ2luZWVyaW5nMTMwMQYD
+VQQDEyppcC0xNzItMzEtNDQtOTAudXMtd2VzdC0yLmNvbXB1dGUuaW50ZXJuYWwx
+GDAWBgNVBCkTD2lwLTE3Mi0zMS00NC05MDEmMCQGCSqGSIb3DQEJARYXZ29nYXNj
+YUB3ZWFsdGhmcm9udC5jb22CCQDyP4ZlyATKejATBgNVHSUEDDAKBggrBgEFBQcD
+ATALBgNVHQ8EBAMCBaAwFAYDVR0RBA0wC4IJdnBuc2VydmVyMA0GCSqGSIb3DQEB
+CwUAA4IBAQAHFTD8YtGEFx94ou9ZfOgkA4on3ca/c7MiWvCVhYKP62tnxRNtVSfG
+wl9Sxr0x2DU9SOXXuCWsPF4BbfA88XX+yOD5QPE0MGWEVw+i6CDlWj3w/mneYot/
+80ZKtv2PmkhPcoORvn9RZG5dhzS+wwtcHPxJuVPkHodTWGfduTHSi+i8tmw7GGT6
+wDSr+6NU0oN/EmWrAPz94D/0toFIZv5VhHQvDFrNqrXOg+YlUyxSwIdorCNMVQgD
+UHtoKWVX3h2lED3lklYLGJ5QAs680deYQZyw4rIUg5Q9qYXPbHQYTlje7p916I/L
+V8IFDd8qHuqwJMm0FgK60y7duE6R8gLa
+-----END CERTIFICATE-----
